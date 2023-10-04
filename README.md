@@ -20,6 +20,12 @@ Create a turn-based react.js-based game using a simple hex map, in which the pla
 - The International Business Machines Corporation (IBM)
 - Any students who are willing to learn CS
 
+## **Group Members:**
+- Dylan Byrne (tk22801)
+- Kyle Verzosa (ao22174)
+- Toby Johnston (yd22255)
+- Jimin Ryu (ff22216)
+- Honhbo Xu (ji21607)
   
 
 ## **Supporting Mentor:**
