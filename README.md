@@ -25,7 +25,7 @@ Create a turn-based react.js-based game using a simple hex map, in which the pla
 - Kyle Verzosa (ao22174)
 - Toby Johnston (yd22255)
 - Jimin Ryu (ff22216)
-- Honhbo Xu (ji21607)
+- Hongbo Xu (ji21607)
   
 
 ## **Supporting Mentor:**
