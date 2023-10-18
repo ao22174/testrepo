@@ -2,7 +2,7 @@
 
 ## **Project Proposal:**
 
-Create a turn-based react.js-based game using a simple hex map, in which the player’s goal is to expand their single hex village into a megalopolis. Progression in the game is influenced by 4 resources that the player can obtain; food, wood, metal, and tech. Certain resources such as tech points are rewarded by correctly answering questions posed by the game - which are based on the questions posed in the Skills Build Getting Started Credentials. AI players will develop their own cities at a steady rate and will challenge the player.
+Create a turn-based Unity-based game using a simple hex map, in which the player’s goal is to expand their single hex village into a megalopolis. Progression in the game is influenced by 4 resources that the player can obtain; food, wood, metal, and tech. Certain resources such as tech points are rewarded by correctly answering questions posed by the game - which are based on the questions posed in the Skills Build Getting Started Credentials. AI players will develop their own cities at a steady rate and will challenge the player.
 
 
 ## **User Stories:**
