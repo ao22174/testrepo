@@ -9,7 +9,7 @@ assignees: ''
 
 **Describe work that needs to happen**
 
-Briefly explain the admin tasks that need to be carried out.
+\nBriefly explain the admin tasks that need to be carried out.
 
 **Additional resources**
 
