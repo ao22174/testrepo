@@ -16,9 +16,13 @@ Create a turn-based Unity-based game using a simple hex map, in which the player
   
 
 ## **Stakeholders:**
+- **Clients**
 
-- The International Business Machines Corporation (IBM)
-- Any students who are willing to learn CS
+Client is International Business Machines Corporation (IBM) who is interested in helping people learn some hugely intimidating computer science fields when they need to touch those projects in the first time. At the moment, IBM has created a powerful website that includes AI, DataScience, DesignThinking, Cloud, and CyberSecurity knowledge, they can adapt those courses to a game that will facilitate the learning and research process.
+
+- **Participants**
+
+Participants usually are students who are willing to learn computer science knowledge. As the main beneficiaries, they can figure out several different knowledge is their strengths or weaknesses by answering the questions from the game. Participants do not worry about getting the wrong answer, the game will show the link that directly connects to IBM Skills Build website to gain information about that area. Additionally, the system will rank the questions from easy to difficult, so participants will have a smooth learning process during the game.
 
 ## **Group Members:**
 - Dylan Byrne (tk22801)
