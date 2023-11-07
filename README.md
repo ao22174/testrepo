@@ -7,8 +7,10 @@
   - [Development Guide](#development-guide)
   - [User Stories](#user-stories)
   - [Stakeholders](#stakeholders)
-  - [Management Tools](#management-tools)
+  - [Ethics](#ethics)
   - [License](#license)
+  - [Management Tools](#management-tools)
+
   - [Group Members](#group-members)
 
  
@@ -59,6 +61,14 @@ Participants usually are students who are willing to learn computer science know
 
 ## **License:**
 See the [license](https://github.com/spe-uob/2023-Edutopia/blob/main/LICENSE.md) file for details.
+
+
+
+## **Ethics:**
+1.We must exercise caution to prevent inadvertently damaging the user's device, by not deleting or writing any files that are not related to Edutopia.
+
+2.The knowledge is guaranteed to be real-time and accurate when the user is learning with Edutopia.
+
 
 
 
