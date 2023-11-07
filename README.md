@@ -2,16 +2,24 @@
 
 ## Table of Contents
   - [Project Proposal](#project-proposal)
+  - [Technology](#user-stories)
   - [User Stories](#user-stories)
   - [Stakeholders](#stakeholders)
+  - [Management Tools](#management-tools)
+  - [License](#license)
   - [Group Members](#group-members)
-  - [Supporting Mentor](#supporting-mentor)
 
-  
+ 
 
 ## **Project Proposal:**
 
 Create a turn-based Unity-based game using a simple hex map, in which the player’s goal is to expand their single hex village into a megalopolis. Progression in the game is influenced by 4 resources that the player can obtain; food, wood, metal, and tech. Certain resources such as tech points are rewarded by correctly answering questions posed by the game - which are based on the questions posed in the Skills Build Getting Started Credentials. AI players will develop their own cities at a steady rate and will challenge the player.
+
+
+
+## **Technology:**
+- **Unity**
+
 
 
 ## **User Stories:**
@@ -21,8 +29,7 @@ Create a turn-based Unity-based game using a simple hex map, in which the player
 
 3.) As **partners of IBM**, we would like to encourage its players to study their IBM Skills Build AI, DataScience, DesignThinking, Cloud and Cybersecurity Getting Started Courses
 
-  
-  
+
 
 ## **Stakeholders:**
 - **Clients**
@@ -33,14 +40,26 @@ Client is International Business Machines Corporation (IBM) who is interested in
 
 Participants usually are students who are willing to learn computer science knowledge. As the main beneficiaries, they can figure out several different knowledge is their strengths or weaknesses by answering the questions from the game. Participants do not worry about getting the wrong answer, the game will show the link that directly connects to IBM Skills Build website to gain information about that area. Additionally, the system will rank the questions from easy to difficult, so participants will have a smooth learning process during the game.
 
+
+
+## **License:**
+See the [license](https://github.com/spe-uob/2023-Edutopia/blob/main/LICENSE.md) file for details.
+
+
+
+## **Management Tools:**
+- Kanban Board  https://github.com/orgs/spe-uob/projects/82  
+- Gantt Chart   https://github.com/orgs/spe-uob/projects/151
+
+  
+
 ## **Group Members:**
 - Dylan Byrne (tk22801)
 - Kyle Verzosa (ao22174)
 - Toby Johnston (yd22255)
 - Jimin Ryu (ff22216)
 - Hongbo Xu (ji21607)
-  
 
-## **Supporting Mentor:**
+**Supporting Mentor:**
 
 - Elliot Buckingham
