@@ -55,8 +55,8 @@ See the [license](https://github.com/spe-uob/2023-Edutopia/blob/main/LICENSE.md)
 
 
 ## **Management Tools:**
-- Kanban Board  https://github.com/orgs/spe-uob/projects/82  
-- Gantt Chart   https://github.com/orgs/spe-uob/projects/151
+- [Kanban Board](https://github.com/orgs/spe-uob/projects/82)  
+- [Gantt Chart](https://github.com/orgs/spe-uob/projects/151)
 
   
 
