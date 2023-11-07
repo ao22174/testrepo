@@ -4,6 +4,7 @@
   - [Project Proposal](#project-proposal)
   - [Knowledge Base](#knowledge-base)
   - [Technology](#user-stories)
+  - [Development Guide](#development-guide)
   - [User Stories](#user-stories)
   - [Stakeholders](#stakeholders)
   - [Management Tools](#management-tools)
@@ -26,6 +27,13 @@ Create a turn-based Unity-based game using a simple hex map, in which the player
 
 ## **Technology:**
 - **Unity**
+
+
+
+## **Development Guide:**
+- [Data type and function](https://media.discordapp.net/attachments/1161589633197555713/1166699036972175431/Object_states_for_edutopia.drawio.png?ex=6554aaa6&is=654235a6&hm=0c08db4020bb492db44b47667d000ae8b6f699a2af81864c16a71029f6b62d0f&=)
+
+- [General gameplay loop](https://media.discordapp.net/attachments/1161589633197555713/1166699247970832404/image.png?ex=6554aad8&is=654235d8&hm=84aed092fd4da22220b081b6e11ced18de40ebaecf11c83b6807b11f38879353&=&width=500&height=538)
 
 
 
